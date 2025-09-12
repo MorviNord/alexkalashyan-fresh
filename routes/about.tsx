@@ -1,5 +1,5 @@
 import { resumeData } from "../constants/ResumeData.tsx";
-import { ArrowIcon } from "../static/Icon/arrow.tsx";
+import { ArrowIcon } from "../components/Icon/arrow.tsx";
 import ExperienceSection from "../components/ExperienceSection.tsx";
 import Footer from "../components/Footer.tsx";
 

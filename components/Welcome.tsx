@@ -1,4 +1,4 @@
-import { StarIcon } from "../static/Icon/star.tsx";
+import { StarIcon } from "../components/Icon/star.tsx";
 
 export default function Welcome() {
   return (

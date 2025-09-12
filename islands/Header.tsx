@@ -15,7 +15,6 @@ export default function Header() {
           type="image/webp"
         />
         <img
-          class="rounded-2xl"
           src="/ava/ava.jpg"
           alt="avatar"
           className="rounded-2xl aspect-square w-36 h-36 object-cover"
