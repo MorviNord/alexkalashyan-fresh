@@ -49,11 +49,6 @@ export default function App({ Component, url }: PageProps) {
           href={`https://alexkalashyan.ru${url.pathname}`}
         />
         <title>Alexander Kalashyan | IT Project Manager</title>
-        <link rel="preload" href="/styles.css" as="style" />
-        <link
-          rel="stylesheet"
-          href="/styles.css"
-        />
       </head>
       <body class="grid min-h-screen grid-rows-[auto_1fr_auto] max-w-[680px] mx-auto px-4">
         <Component />
