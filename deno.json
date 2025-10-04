@@ -21,11 +21,11 @@
   "imports": {
     "fresh": "jsr:@fresh/core@^2.1.1",
     "preact": "npm:preact@^10.27.2",
-    "@preact/signals": "npm:@preact/signals@^2.3.1",
+    "@preact/signals": "npm:@preact/signals@^2.3.2",
     "@fresh/plugin-vite": "jsr:@fresh/plugin-vite@^1.0.4",
-    "vite": "npm:vite@^7.1.7",
-    "tailwindcss": "npm:tailwindcss@^4.1.13",
-    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.1.13"
+    "vite": "npm:vite@^7.1.9",
+    "tailwindcss": "npm:tailwindcss@^4.1.14",
+    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.1.14"
   },
   "compilerOptions": {
     "lib": [
