@@ -1,6 +1,6 @@
 // listsocial.tsx
 import { TelegramIcon } from "../components//Icon/social/telegram.tsx";
-import { InstagramIcon } from "../components//Icon/social/Instagram.tsx";
+// import { InstagramIcon } from "../components//Icon/social/Instagram.tsx";
 import { GiteaIcon } from "../components//Icon/social/gitea.tsx";
 
 const social = [
@@ -12,12 +12,6 @@ const social = [
   },
   {
     id: 2,
-    icon: <InstagramIcon />,
-    link: "https://www.instagram.com/abbasnord/",
-    label: "Instagram",
-  },
-  {
-    id: 3,
     icon: <GiteaIcon />,
     link: "https://github.com/MorviNord?tab=repositories",
     label: "Посмотреть github",
