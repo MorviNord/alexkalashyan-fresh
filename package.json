@@ -1,8 +1,12 @@
 {
-  "name": "alexkalashyan-fresh",
+  "name": "cloudflare-vite-get-started",
+  "private": true,
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "deno task build",
-    "deploy": "npm run build && npx wrangler deploy"
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "npm run build && vite preview",
+    "deploy": "npm run build && wrangler deploy"
   }
 }
