@@ -28,3 +28,7 @@ app.use(exampleLoggerMiddleware);
 
 // Include file-system based routes here
 app.fsRoutes();
+
+function start(manifest: any, arg1: { port: number }) {
+  throw new Error("Function not implemented.");
+}
