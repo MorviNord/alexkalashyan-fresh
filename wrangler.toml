@@ -1,0 +1,4 @@
+# wrangler.toml
+name = "alexkalashyan-fresh"
+main = "./main.ts"
+compatibility_date = "2026-01-13"
