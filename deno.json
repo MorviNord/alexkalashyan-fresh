@@ -10,15 +10,13 @@
   "lint": { "rules": { "tags": ["fresh", "recommended"] } },
   "exclude": ["**/_fresh/*"],
   "imports": {
-    "@cloudflare/vite-plugin": "npm:@cloudflare/vite-plugin@^1.20.2",
     "fresh": "jsr:@fresh/core@^2.2.0",
     "preact": "npm:preact@^10.27.2",
     "@preact/signals": "npm:@preact/signals@^2.5.0",
     "@fresh/plugin-vite": "jsr:@fresh/plugin-vite@^1.0.8",
     "vite": "npm:vite@^7.3.1",
     "tailwindcss": "npm:tailwindcss@^4.1.18",
-    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.1.18",
-    "wrangler": "npm:wrangler@^4.59.0"
+    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.1.18"
   },
   "compilerOptions": {
     "lib": ["dom", "dom.asynciterable", "dom.iterable", "deno.ns"],
