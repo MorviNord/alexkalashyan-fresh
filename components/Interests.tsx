@@ -12,6 +12,7 @@ export function Interests() {
                 height="30"
                 src={item.img}
                 alt={item.alt}
+                class="w-7.5 h-7.5 block"
               />
               {item.label}
             </li>

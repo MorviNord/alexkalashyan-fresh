@@ -1,6 +1,5 @@
 FROM denoland/deno:latest
 
-
 WORKDIR /app
 
 COPY deno.json deno.lock ./
@@ -10,5 +9,4 @@ RUN deno task build
 
 EXPOSE 8000
 
-# Изменение здесь: используем deno serve вместо deno run
 CMD ["serve", "--allow-net", "--allow-read", "--allow-env", "_fresh/server.js"]
