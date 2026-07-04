@@ -7,7 +7,7 @@ const social = [
   {
     id: 1,
     icon: <TelegramIcon />,
-    link: "https://t.me/abbascool",
+    link: "https://t.me/technoflexer",
     label: "Написать в Telegram",
   },
   {
