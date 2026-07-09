@@ -23,6 +23,7 @@ export default function Footer() {
           target="_blank"
           class="flex items-center gap-4"
           rel="noopener noreferrer"
+          aria-label="matrix tables"
         >
           <TablesIcon />
         </a>
