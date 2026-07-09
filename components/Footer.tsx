@@ -9,6 +9,7 @@ export default function Footer() {
           href="https://fresh.deno.dev"
           target="_blank"
           rel="noopener noreferrer"
+          aria-label="Made with Fresh"
         >
           <FreshIcon />
         </a>
