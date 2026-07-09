@@ -1,7 +1,7 @@
 export const ExperienceData = [{
   company: "МКК А Деньги",
   location: "Москва",
-  period: "Март 2024 — по настоящее время",
+  period: "Март 2024 — Май 2026",
   position: "Project manager",
   responsibilities: [
     "Ведение кросс-командных проектов между несколькими командами разработки (3-6 команд)",
