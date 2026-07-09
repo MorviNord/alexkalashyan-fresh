@@ -1,5 +1,5 @@
-import { TablesIcon } from "../components/Icon/tables.tsx";
-import { FreshIcon } from "../components/Icon/fresh-badge.tsx";
+import { TablesIcon } from "../icons/tables.tsx";
+import { FreshIcon } from "../icons/fresh-badge.tsx";
 
 export default function Footer() {
   return (

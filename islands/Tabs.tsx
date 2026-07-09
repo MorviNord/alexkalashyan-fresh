@@ -1,5 +1,5 @@
 import { useSignal } from "@preact/signals";
-import { LinkIcon } from "../components/Icon/link.tsx";
+import { LinkIcon } from "../components/icons/link.tsx";
 import { InterestsData } from "../constants/InterestsData.tsx";
 import { tabs } from "../constants/Tabs.tsx";
 

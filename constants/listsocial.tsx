@@ -1,7 +1,7 @@
 // listsocial.tsx
-import { TelegramIcon } from "../components//Icon/social/telegram.tsx";
-// import { InstagramIcon } from "../components//Icon/social/Instagram.tsx";
-import { GiteaIcon } from "../components//Icon/social/gitea.tsx";
+import { TelegramIcon } from "../components/icons/social/telegram.tsx";
+// import { InstagramIcon } from "../components/icons/social/Instagram.tsx";
+import { GiteaIcon } from "../components/icons/social/gitea.tsx";
 
 const social = [
   {
