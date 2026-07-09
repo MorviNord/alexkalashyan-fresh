@@ -22,7 +22,7 @@ export default function Header() {
           className="rounded-2xl aspect-square w-36 h-36 object-cover"
         />
       </picture>
-      <h1 class="max-w-2xs text-3xl mt-5 text-white min-h-6">
+      <h1 class="min-h-16 w-full max-w-2xs text-3xl mt-5 text-white text-center leading-tight">
         {displayText} <span class="text-blue min-h-5">Project manager</span>
       </h1>
     </header>
